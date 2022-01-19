@@ -1,0 +1,1 @@
+I challenged myself to implement a secure rpc over tls service from this original codebase: https://github.com/nicholasjackson/building-microservices-in-go/tree/master/chapter1/rpc# rps-over-tls-service
